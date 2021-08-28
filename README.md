@@ -10,9 +10,11 @@ assumption is that there might be some underlying factors that causes breast can
 The main objective of the task is to highlight the possibility of that assumption and establish a ground truth.
 
 This is an attempt to solve the problem using the follow methods:
-Perform a causal inference task using Pearl’s framework;
-Infer the causal graph from observational data and then validate the graph;
-Merge machine learning with causal inference;
+<ul>
+  <li>Perform a causal inference task using Pearl’s framework;</li>
+  <li>Infer the causal graph from observational data and then validate the graph;</li
+  <li>Merge machine learning with causal inference;</li>
+</ul>
 
 
 Contributors
